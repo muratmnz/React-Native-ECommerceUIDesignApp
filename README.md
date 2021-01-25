@@ -2,5 +2,5 @@
 
 The design example is taken from Dribble.
 
-![alt text](https://github.com/muratmnz/React-Native-ECommerceUIDesignApp/appPicture1.png?raw=true)
-![alt text](https://github.com/muratmnz/React-Native-ECommerceUIDesignApp/appPicture2.png?raw=true)
+![appPicture1](https://github.com/muratmnz/React-Native-ECommerceUIDesignApp.git/appPicture1.png?raw=true)
+![appPicture2](https://github.com/muratmnz/React-Native-ECommerceUIDesignApp.git/appPicture2.png?raw=true)
